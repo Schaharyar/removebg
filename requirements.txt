@@ -1,6 +1,3 @@
-fastapi
-uvicorn
-pillow
+Pillow
 rembg
-onnxruntime
-jinja2
+numpy
